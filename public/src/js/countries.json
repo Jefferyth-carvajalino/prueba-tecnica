@@ -1,0 +1,64 @@
+{
+	"status": "OK",
+	"status-code": 200,
+	"version": "1.0",
+	"access": "public",
+	"data": {
+		"AR": {
+		"country": "Argentina",
+		"region": "South America"
+		},
+		"BO": {
+		"country": "Bolivia (Plurinational State of)",
+		"region": "South America"
+		},
+		"BR": {
+		"country": "Brazil",
+		"region": "South America"
+		},
+		"CL": {
+		"country": "Chile",
+		"region": "South America"
+		},
+		"CO": {
+		"country": "Colombia",
+		"region": "South America"
+		},
+		"EC": {
+		"country": "Ecuador",
+		"region": "South America"
+		},
+		"FK": {
+		"country": "Falkland Islands (the) [Malvinas]",
+		"region": "South America"
+		},
+		"GF": {
+		"country": "French Guiana",
+		"region": "South America"
+		},
+		"GY": {
+		"country": "Guyana",
+		"region": "South America"
+		},
+		"PY": {
+		"country": "Paraguay",
+		"region": "South America"
+		},
+		"PE": {
+		"country": "Peru",
+		"region": "South America"
+		},
+		"SR": {
+		"country": "Suriname",
+		"region": "South America"
+		},
+		"UY": {
+		"country": "Uruguay",
+		"region": "South America"
+		},
+		"VE": {
+		"country": "Venezuela (Bolivarian Republic of)",
+		"region": "South America"
+		}
+	}
+}
